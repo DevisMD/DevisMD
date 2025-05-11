@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a cross-platform mobile app developer passionate about
 
 ## 📬 Let’s Connect
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: devismd99@gmail.com 
 - 💼 LinkedIn: [https://www.linkedin.com/in/devis-m-d-46215b334/]  
 - 🌐 Portfolio: [https://linktr.ee/DevisMD]
 
